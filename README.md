@@ -101,7 +101,7 @@ For Base64URL_encoded_password visit -> https://mixedanalytics.com/tools/basic-a
     - Bearer Token: eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJTaGltYmh1Iiwic3ViIjoiSldUIFRva2VuIiwidXNlcm5hbWUiOiJzcHJpbmdib290QGdtYWlsLmNvbSIsInJvbGUiOiJST0xFX1VTRVIiLCJpYXQiOjE3MDM3NjQzMTgsImV4cCI6MTcwMzc5NDMxOH0.H239t-JZtNTNkirTnsmknSBNS_lW-Xbqf7AVHJ_w9ng
     - Response: Welcome to SivaMula's Website  : Siva Mula
 
-![Response-Authorization: Bearer](BearerAuth.png)
+![Bearerauthresponse](https://github.com/Siva-Mula-03/Login-and-Signup-Backend-API-with-Spring-Security-and-JWT-Tokens/assets/111627965/37ffecbd-4dcb-48d7-b61e-50cfcda3f1c2)
 
 ### Tech Stack
 
